@@ -32,7 +32,7 @@ Hello World! My name is Nícolas, a full-stack developtment student.
       &nbsp
       <img text-align="center" alt="js" height="40" width="40" src="https://static-00.iconduck.com/assets.00/javascript-icon-512x512-34hjwczx.png">
       &nbsp
-      <img text-align="center" alt="typescript" height="40" width="40" src="https://static-00.iconduck.com/assets.00/file-type-typescript-official-icon-          512x512-873ff1r9.png">
+      <img text-align="center" alt="typescript" height="40" width="40" src="https://static-00.iconduck.com/assets.00/file-type-typescript-official-icon-512x512-873ff1r9.png">
       &nbsp
       <img text-align="center" alt="react.js" height="40" width="40" src="https://static-00.iconduck.com/assets.00/react-icon-512x456-2ynx529a.png">
       &nbsp
