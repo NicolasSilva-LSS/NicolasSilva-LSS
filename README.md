@@ -36,7 +36,7 @@ Hello World! My name is Nícolas, a full-stack developtment student.
       &nbsp
       <img text-align="center" alt="react.js" height="40" width="40" src="https://static-00.iconduck.com/assets.00/react-icon-512x456-2ynx529a.png">
       &nbsp
-      <img text-align="center" alt="php" height="40" width="40" src="https://static-00.iconduck.com/assets.00/php-icon-512x512-e3mr5hev.png">
+      <img text-align="center" alt="php" height="40" width="40" src="https://static-00.iconduck.com/assets.00/php-icon-512x512-og0oh3rg.png">
     </div>
   </h3>
 </body>
