@@ -14,10 +14,10 @@ Hello World! My name is Nícolas, a full-stack developtment student.
   </h1>
   <h2> 
     <p>
-      	I'm a Systems Analysis and Development student at Estácio, with a strong passion
-	by full stack development and with a solid foundation in modern technologies. 
-	I have skills in JavaScript, PHP, HTML, CSS, frameworks like Laravel, Vue.js, Bootstrap, as well as Node.js for the back-end. 
-	I have experience with relational databases (MySQL) and NoSQL (MongoDB) and I am always looking to learn new technologies and development methodologies.
+      	Sou estudante de Análise e Desenvolvimento de Sistemas atualmente pela Estácio, com forte paixão
+	por desenvolvimento Full Stack e com uma base sólida em tecnologias modernas. 
+	Possuo conhecimento em JavaScript, PHP, Java, Laravel, React, React-Native, Node.js, Kotlin, entre outras tecnologias de desenvolvimento tanto para Back-End quanto para Front-End.
+	Tenho experiência com bancos de dados (MySQL, MongoDB, SQlite, FireBase) e estou sempre buscando aprender novas tecnologias e metodologias de desenvolvimento.
     </p>
   </h2>
   
