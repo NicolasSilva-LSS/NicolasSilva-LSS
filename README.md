@@ -28,6 +28,8 @@ Hello World! My name is Nícolas, a full-stack developtment student.
     <div style="display: inline_block"><br>
       <img text-align="center" alt="js" height="40" width="40" src="https://static-00.iconduck.com/assets.00/javascript-icon-512x512-34hjwczx.png">
 &nbsp
+      <img text-align="center" alt="java" height="40" width="40" src="https://static-00.iconduck.com/assets.00/java-original-wordmark-icon-276x512-bacgskru.png">
+&nbsp
       <img text-align="center" alt="php" height="40" width="40" src="https://static-00.iconduck.com/assets.00/php-icon-512x512-og0oh3rg.png">
 &nbsp
       <img text-align="center" alt="react.js" height="40" width="40" src="https://static-00.iconduck.com/assets.00/react-icon-512x512-u6e60ayf.png">
